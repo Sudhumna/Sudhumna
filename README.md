@@ -3,10 +3,10 @@
 ---
 ![Profile views](https://gpvc.arturio.dev/Sudhumna) 
 
----
-![I am GitHub Readme Generator's creator](https://th.bing.com/th/id/OIP.nVkNkA3Z66xkWlcwA8YRSwHaE7?pid=ImgDet&rs=1)
 
----
+![I am GitHub Readme Generator's creator](https://th.bing.com/th/id/OIP.nVkNkA3Z66xkWlcwA8YRSwHaE7?pid=ImgDet&rs=2)
+
+
 
 
 # 💻 Tech Stack:
