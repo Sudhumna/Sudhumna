@@ -18,8 +18,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/4943/4943029.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/3308/3308160.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 </p>
-[![hr]()
----
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sudhumna)](https://github.com/ryo-ma/github-profile-trophy)
