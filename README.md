@@ -19,15 +19,9 @@
 <img src="https://cdn-icons-png.flaticon.com/512/3308/3308160.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-[!] ---
-
-
-
-
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sudhumna)](https://github.com/ryo-ma/github-profile-trophy)
----
+
 
 ![Sudhumna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhumna&show_icons=true&theme=radical)
 ---
