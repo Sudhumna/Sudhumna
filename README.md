@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/Sudhumna) 
 
 <img align = "right" alt = "Hello There" width = "700" src ="https://github.com/Sudhumna/Sudhumna/blob/main/IMG-9feae2f743b097892f734dca4e78846b-V.jpg">
-## Languages:
+# 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
