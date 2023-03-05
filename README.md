@@ -4,6 +4,7 @@
 
 <img align = "right" alt = "Hello There" width = "700" src ="https://github.com/Sudhumna/Sudhumna/blob/main/IMG-9feae2f743b097892f734dca4e78846b-V.jpg">
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sudhumna)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Sudhumna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhumna&show_icons=true&theme=radical)
@@ -12,4 +13,4 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sudhumna)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Sudhumna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sudhumna-phuyal-78860620a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009797820145&mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/phuyalsudhumna?igshid=NmQ2ZmYxZjA=/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sudhumna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sudhumna-phuyal-78860620a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100009797820145&mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://instagram.com/phuyalsudhumna?igshid=NmQ2ZmYxZjA=/)  
