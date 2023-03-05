@@ -2,10 +2,9 @@
 ### I'm Sudhumna from Nepal, currently studying CSIT and I am passionate about Python, Data Science & AI.
 ---
 ![Profile views](https://gpvc.arturio.dev/Sudhumna) 
+![I am GitHub Readme Generator's creator]
+(<img align = "right" alt = "Hello There" width = "700" src ="https://github.com/Sudhumna/Sudhumna/blob/main/IMG-9feae2f743b097892f734dca4e78846b-V.jpg">)
 
-<img align = "right" alt = "Hello There" width = "700" src ="https://github.com/Sudhumna/Sudhumna/blob/main/IMG-9feae2f743b097892f734dca4e78846b-V.jpg"></img>
-
----
 # 💻 Tech Stack:
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
