@@ -4,6 +4,8 @@
 
 ![I am GitHub Readme Generator's creator]()
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sudhumna)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Sudhumna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhumna&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhumna)](https://github.com/anuraghazra/github-readme-stats)
