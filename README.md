@@ -1,7 +1,7 @@
 ## Hi there 👋 
 ### I'm Sudhumna from Nepal, currently studying CSIT and I am passionate about Python, Data Science & AI.
 ![Profile views](https://gpvc.arturio.dev/Sudhumna) 
-![I am GitHub Readme Generator's creator](https://github.com/Sudhumna/Sudhumna/blob/main/Sudhumna_Phuyal.jpg)
+![I am GitHub Readme Generator's creator]()
 
 
 ![Sudhumna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhumna&show_icons=true&theme=radical)
