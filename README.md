@@ -17,7 +17,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/9089/9089814.png" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/4943/4943029.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/3308/3308160.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
- <hr border+"1px">
+ <hr border="1px">
  
 </p>
 
