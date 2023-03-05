@@ -3,5 +3,5 @@
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/media/FqXjT1uagAAa7YH?format=jpg&name=large)
 
 ![Sudhumna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhumna&show_icons=true&theme=radical)
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhumna&layout=compact)](https://github.com/Sudhumna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhumna&layout=compact)](https://github.com/Sudhumna/github-readme-stats)
 
