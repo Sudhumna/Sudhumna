@@ -1,6 +1,5 @@
 ## Hi there 👋 
 ### I'm Sudhumna from Nepal, currently studying CSIT and I am passionate about Python, Data Science & AI.
----
 ![Profile views](https://gpvc.arturio.dev/Sudhumna) 
 ---
 
