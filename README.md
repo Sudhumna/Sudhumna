@@ -2,7 +2,7 @@
 ### I'm Sudhumna from Nepal, currently studying CSIT and I am passionate about Python, Data Science & AI.
 ![Profile views](https://gpvc.arturio.dev/Sudhumna) 
 
-![enter image description here](https://github.com/Sudhumna/Sudhumna/blob/main/IMG-9feae2f743b097892f734dca4e78846b-V.jpg)
+<img align = "right" alt = "Hello There" width = "400" src ="https://github.com/Sudhumna/Sudhumna/blob/main/IMG-9feae2f743b097892f734dca4e78846b-V.jpg">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sudhumna)](https://github.com/ryo-ma/github-profile-trophy)
 
