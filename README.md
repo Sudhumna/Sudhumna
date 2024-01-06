@@ -7,7 +7,6 @@
 
 ## 💻 Tech Stack:
 <p>
-  ![image](https://github.com/Sudhumna/Sudhumna/assets/81037857/0267d503-f149-4fe4-9004-4b79fe67a09f)
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/9089/9089814.png" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn-icons-png.flaticon.com/512/4943/4943029.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
