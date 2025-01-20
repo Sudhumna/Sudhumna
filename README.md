@@ -25,7 +25,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhumna&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sudhumna)  
 ---
 ### 🔗Connect with me:
 
