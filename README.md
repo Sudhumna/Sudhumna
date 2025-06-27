@@ -8,10 +8,11 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top;margin:4px" />
   <img src="https://cdn-icons-png.flaticon.com/512/9089/9089814.png" alt="C" height="40" style="vertical-align:top;margin:4px" />
-  <img src="https://cdn-icons-png.flaticon.com/512/4943/4943029.png" alt="HTML" height="40" style="vertical-align:top;margin:4px" />
-  <img src="https://cdn-icons-png.flaticon.com/512/3308/3308160.png" alt="CSS" height="40" style="vertical-align:top;margin:4px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="vertical-align:top;margin:4px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="40" style="vertical-align:top;margin:4px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="40" style="vertical-align:top;margin:4px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="40" style="vertical-align:top;margin:4px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="40" style="vertical-align:top;margin:4px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" height="40" style="vertical-align:top;margin:4px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" height="40" style="vertical-align:top;margin:4px" />
 </p>
@@ -36,6 +37,3 @@
   <a href="https://www.facebook.com/profile.php?id=100009797820145&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://instagram.com/phuyalsudhumna?igshid=NmQ2ZmYxZjA=/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
