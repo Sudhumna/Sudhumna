@@ -17,19 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" height="40" style="vertical-align:top;margin:4px" />
 </p>
 
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sudhumna)](https://github.com/ryo-ma/github-profile-trophy)
----
-
-
-![Sudhumna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhumna&show_icons=true&theme=radical)
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhumna&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
----
-
----
 ## 🔗 Connect with me
 <p align="left">
   <a href="https://github.com/Sudhumna"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
