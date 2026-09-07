@@ -65,6 +65,3 @@
   <a href="https://instagram.com/phuyalsudhumna?igshid=NmQ2ZmYxZjA="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sudhumna&style=flat-square&color=blue" alt="Profile views" />
-</p>
